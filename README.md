@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+	<a href="https://github.com/Ant0wan"><img src="https://img.shields.io/github/followers/Ant0wan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/sponsors/Ant0wan"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+	<a href="https://www.linkedin.com/in/ant0wan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
