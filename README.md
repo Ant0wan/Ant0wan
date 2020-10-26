@@ -58,9 +58,9 @@ CKA | Certified Kubernetes Administrator |
 
 Project | Language | Description |
   ---   |    ---   |     ---     |
-Taskmaster  |     Rust    |  Basics of supervisor, learn Rust, pull requests and git/github |
-Roger-Skyline-2  |     *unknown*    | Build a company infrastructure automatically deployed from boot to prod - Home server |
-Ft\_malloc  |     C    | Opti + cross-platform + "garbage collector" + atomic operation + defragmation (with and without) + multithread + free that bzero + dynamic and static compilation + include 42Libc |
+Taskmaster  |     Rust    |  Basics of supervisor, learn Rust, pull requests and git/github with the awesome <a href="https://github.com/pscott">pscott</a> |
+Roger-Skyline-2  |     *undefined*    | Build a company infrastructure automatically deployed from boot to production on my home server HP ProLiant ML10 Gen9 |
+Ft\_malloc  |     C    | "Garbage collector" for 42 project "free before exit rule" + multithread + defragmation (define to choose algorithm) + free_bzero option ? + dynamic and static compilation + include in 42Libc |
 
 
 ---
