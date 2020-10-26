@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 Subject | Description |
  ---    |     ---     |
 Cloud Engineer  | Linux Foundation <a href="https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/">Cloud Engineer Bootcamp</a>|
-LFCS | Linux Foundation Certified System Administrator |
-CKA | Certified Kubernetes Administrator |
+LFCS | Linux Foundation <a href="https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/">Certified System Administrator</a> |
+CKA | <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/">Certified Kubernetes Administrator</a> |
 
 ---
 
@@ -58,9 +58,9 @@ CKA | Certified Kubernetes Administrator |
 
 Project | Language | Description |
   ---   |    ---   |     ---     |
-Taskmaster  |     Rust    |  Basics of supervisor, learn Rust, pull requests and git/github with the awesome <a href="https://github.com/pscott">pscott</a> |
-Roger-Skyline-2  |     *undefined*    | Build a company infrastructure automatically deployed from boot to production on my home server HP ProLiant ML10 Gen9 |
+<a href="https://github.com/pscott/TaskMaster">Taskmaster</a>  |     Rust    |  Basics of supervisor, learn Rust, pull requests and git/github with the awesome <a href="https://github.com/pscott">pscott</a> |
 Ft\_malloc  |     C    | "Garbage collector" for 42 project "free before exit rule" + multithread + defragmation (define to choose algorithm) + free_bzero option ? + dynamic and static compilation + include in 42Libc |
+Roger-Skyline-2  |     *undefined*    | Build a company infrastructure automatically deployed from boot to production on my home server HP ProLiant ML10 Gen9 |
 
 
 ---
