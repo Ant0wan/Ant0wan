@@ -75,8 +75,8 @@ Roger-Skyline-2  |     *undefined*    | Build a company infrastructure automatic
 
 Project | Language | Description |
 ---   |    ---   |     ---     |
-42AI-PyBootcamp  |     Python    | Introduction to Python3 |
-42AI-MLBootcamp  |     Python    | Introduction to Machine Learning in Python3 |
+<a href="https://github.com/42-AI">42AI</a> PyBootcamp  |     Python    | Introduction to Python3 |
+<a href="https://github.com/42-AI">42AI</a> MLBootcamp  |     Python    | Introduction to Machine Learning in Python3 |
 
 
 </details>
