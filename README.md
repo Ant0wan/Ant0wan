@@ -90,6 +90,4 @@ Project | Language | Description |
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ant0wan&show_icons=true&theme=gotham" alt="Ant0wan" />
 </p>
 
-[![HitCount](http://hits.dwyl.com/Ant0wan/Ant0wan.svg)](http://hits.dwyl.com/Ant0wan/Ant0wan)
-
 </details>
