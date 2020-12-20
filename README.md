@@ -59,8 +59,6 @@ CKA | <a href="https://training.linuxfoundation.org/certification/certified-kube
 Project | Language | Description |
   ---   |    ---   |     ---     |
 <a href="https://github.com/pscott/TaskMaster">Taskmaster</a>  |     Rust    |  Basics of supervisor, learn Rust, pull requests and git/github with the awesome <a href="https://github.com/pscott">pscott</a> |
-Ft\_malloc  |     C    | "Garbage collector" for 42 project "free before exit rule" + multithread + defragmation (define to choose algorithm) + free_bzero option ? + dynamic and static compilation + include in 42Libc |
-Roger-Skyline-2  |     *undefined*    | Build a company infrastructure automatically deployed from boot to production on my home server HP ProLiant ML10 Gen9 |
 
 
 ---
