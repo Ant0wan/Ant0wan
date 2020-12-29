@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I am Antoine Barthelemy - a DevOps Engineer working on bare-metal 📟 </h2>
+<h2 align="center">Hi there! I am Antoine - a DevOps Engineer working on bare-metal 📟 </h2>
 
 <p align="center">
 	<a href="https://github.com/Ant0wan"><img src="https://img.shields.io/github/followers/Ant0wan.svg?label=GitHub&style=social" alt="GitHub"></a>
