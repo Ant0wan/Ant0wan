@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I am Antoine Barthelemy - a software developer 👋</h2>
+<h2 align="center">Hi there! I am Antoine Barthelemy - a DevOps Engineer 👋</h2>
 
 <!--
 **Ant0wan/Ant0wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
