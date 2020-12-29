@@ -1,19 +1,4 @@
-<h2 align="center">Hi there! I am Antoine Barthelemy - a DevOps Engineer 👋</h2>
-
-<!--
-**Ant0wan/Ant0wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Containers [Podman & K8s] and TaskMaster [42 project].
-- 🌱 I’m currently learning system administration + containers and Rust.
-- 👯 I’m looking to collaborate on Rust.
-- 🤔 I’m looking for help with Rust.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Hi there! I am Antoine Barthelemy - a DevOps Engineer working on bare-metal 📟 </h2>
 
 <p align="center">
 	<a href="https://github.com/Ant0wan"><img src="https://img.shields.io/github/followers/Ant0wan.svg?label=GitHub&style=social" alt="GitHub"></a>
