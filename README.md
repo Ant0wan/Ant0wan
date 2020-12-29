@@ -22,7 +22,6 @@
 
 Subject | Description |
  ---    |     ---     |
-Cloud Engineer  | Linux Foundation <a href="https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/">Cloud Engineer Bootcamp</a>|
 LFCS | Linux Foundation <a href="https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/">Certified System Administrator</a> |
 CKA | <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/">Certified Kubernetes Administrator</a> |
 
