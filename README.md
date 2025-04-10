@@ -10,6 +10,8 @@ favorite_stack:
     - Ubuntu Server
   orchestrator: Kubernetes
   container_runtime: gVisor (runsc)
+  observability: OpenTelemetry
+  visualizer: Grafana
   security_tools:
     - Trivy
     - Kube-bench
