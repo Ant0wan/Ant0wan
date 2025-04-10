@@ -8,7 +8,7 @@ Favorite Satck:
   Scan: Trivy, Kube-bench
   Linter: Shellcheck, Clippy, Hadolint
   InfraAsCode: Pulumi
-  IDE: vim
+  IDE: Vim
   Documentation: LinuxFoundation, CNCF, O'Reilly, Addison-Wesley, KodeKloud, Youtube, 42
 Links:
   LFX: https://openprofile.dev/profile/abarthel
