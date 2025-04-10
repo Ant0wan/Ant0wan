@@ -1,5 +1,5 @@
 ```yaml
-Favotire Satck:
+Favorite Satck:
   Languages: C, Rust, Haskell
   Cloud provider: Aws
   OS: Fedora Workstation, Ubuntu Server
