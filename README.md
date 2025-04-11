@@ -20,6 +20,8 @@ favorite_stack:
     - Clippy
     - Hadolint
   infrastructure_as_code: Pulumi
+  continuous_integration: Git-hooks
+  continuous_deployment: Fluxcd
   ide: Vim
   documentation_sources:
     - Linux Foundation
