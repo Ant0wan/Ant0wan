@@ -20,8 +20,6 @@ favorite_stack:
     - Clippy
     - Hadolint
   infrastructure_as_code: Pulumi
-  continuous_integration: Git-hooks
-  continuous_deployment: Fluxcd
   ide: Vim
   documentation_sources:
     - Linux Foundation
@@ -31,6 +29,8 @@ favorite_stack:
     - KodeKloud
     - YouTube
     - 42
+  continuous_integration: Git-hooks
+  continuous_deployment: Fluxcd
 
 links:
   lfx: https://openprofile.dev/profile/abarthel
