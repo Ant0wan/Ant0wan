@@ -7,7 +7,7 @@ favorite_stack:
   cloud_provider: AWS
   operating_systems:
     - Fedora Workstation
-    - Ubuntu Server
+    - Debian Server
   orchestrator: Kubernetes
   container_runtime: gVisor (runsc)
   observability: OpenTelemetry
