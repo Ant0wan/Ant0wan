@@ -9,6 +9,7 @@ favorite_stack:
     - Fedora Workstation
     - Debian Server
   orchestrator: Kubernetes
+  container_network_interface: Cilium
   container_runtime: gVisor (runsc)
   observability: OpenTelemetry
   visualizer: Grafana
