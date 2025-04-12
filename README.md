@@ -24,8 +24,8 @@ favorite stack:
     - Clippy
     - Hadolint
   infrastructure as code: Pulumi
-  continuous_integration: Git Hooks
-  continuous_deployment: Fluxcd
+  continuous integration: Git Hooks
+  continuous deployment: Fluxcd
   infrastructure as a service: AWS
 
 documentation sources:
