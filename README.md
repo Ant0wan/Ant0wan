@@ -1,20 +1,21 @@
 ```yaml
-favorite_stack:
+favorite stack:
   languages:
     - C
     - Rust
     - Haskell
   cloud_provider: AWS
-  operating_systems:
+  operating systems:
     - Fedora Workstation
     - Debian Server
   orchestrator: Kubernetes
-  container_runtime: gVisor (runsc)
-  container_network_interface: Cilium
-  container_storage_interface: Ceph
+  containers:
+    runtime: gVisor (runsc)
+    network interface: Cilium
+    storage interface: Ceph
   observability: OpenTelemetry
   visualizer: Grafana
-  security_tools:
+  security:
     - Open Policy Agent
     - Trivy
     - Kube-bench
@@ -22,9 +23,9 @@ favorite_stack:
     - ShellCheck
     - Clippy
     - Hadolint
-  infrastructure_as_code: Pulumi
+  infrastructure as code: Pulumi
   ide: Vim
-  documentation_sources:
+  documentation sources:
     - Linux Foundation
     - CNCF
     - O'Reilly
