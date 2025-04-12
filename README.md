@@ -15,6 +15,7 @@ favorite_stack:
   observability: OpenTelemetry
   visualizer: Grafana
   security_tools:
+    - Open Policy Agent
     - Trivy
     - Kube-bench
   linters:
