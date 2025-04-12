@@ -19,12 +19,15 @@ favorite stack:
     - Open Policy Agent
     - Trivy
     - Kube-bench
+  ide: Vim
   linters:
     - ShellCheck
     - Clippy
     - Hadolint
   infrastructure as code: Pulumi
-  ide: Vim
+  continuous_integration: Git Hooks
+  continuous_deployment: Fluxcd
+
   documentation sources:
     - Linux Foundation
     - CNCF
@@ -33,8 +36,6 @@ favorite stack:
     - KodeKloud
     - YouTube
     - 42
-  continuous_integration: Git Hooks
-  continuous_deployment: Fluxcd
 
 links:
   lfx: https://openprofile.dev/profile/abarthel
