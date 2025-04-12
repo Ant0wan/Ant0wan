@@ -18,6 +18,7 @@ favorite stack:
     - Open Policy Agent
     - Trivy
     - Kube-bench
+    - Falco
   ide: Vim
   linters:
     - ShellCheck
