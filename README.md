@@ -28,14 +28,14 @@ favorite stack:
   continuous_integration: Git Hooks
   continuous_deployment: Fluxcd
 
-  documentation sources:
-    - Linux Foundation
-    - CNCF
-    - O'Reilly
-    - Addison-Wesley
-    - KodeKloud
-    - YouTube
-    - 42
+documentation sources:
+  - Linux Foundation
+  - CNCF
+  - O'Reilly
+  - Addison-Wesley
+  - KodeKloud
+  - YouTube
+  - 42
 
 links:
   lfx: https://openprofile.dev/profile/abarthel
