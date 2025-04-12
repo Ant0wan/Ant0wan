@@ -26,7 +26,7 @@ favorite stack:
   infrastructure as code: Pulumi
   continuous_integration: Git Hooks
   continuous_deployment: Fluxcd
-  cloud provider: AWS
+  infrastructure as a service: AWS
 
 documentation sources:
   - Linux Foundation
