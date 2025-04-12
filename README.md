@@ -4,7 +4,6 @@ favorite stack:
     - C
     - Rust
     - Haskell
-  cloud_provider: AWS
   operating systems:
     - Fedora Workstation
     - Debian Server
@@ -13,6 +12,7 @@ favorite stack:
     runtime: gVisor (runsc)
     network interface: Cilium
     storage interface: Ceph
+  cloud_provider: AWS
   observability: OpenTelemetry
   visualizer: Grafana
   security:
