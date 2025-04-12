@@ -12,7 +12,6 @@ favorite stack:
     runtime: gVisor (runsc)
     network interface: Cilium
     storage interface: Ceph
-  cloud_provider: AWS
   observability: OpenTelemetry
   visualizer: Grafana
   security:
@@ -27,6 +26,7 @@ favorite stack:
   infrastructure as code: Pulumi
   continuous_integration: Git Hooks
   continuous_deployment: Fluxcd
+  cloud provider: AWS
 
 documentation sources:
   - Linux Foundation
