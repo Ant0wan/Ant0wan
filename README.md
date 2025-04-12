@@ -33,7 +33,7 @@ favorite stack:
     - KodeKloud
     - YouTube
     - 42
-  continuous_integration: Git-hooks
+  continuous_integration: Git Hooks
   continuous_deployment: Fluxcd
 
 links:
