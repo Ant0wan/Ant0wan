@@ -40,6 +40,6 @@ documentation sources:
 links:
   lfx: https://openprofile.dev/profile/abarthel
   github: https://github.com/Ant0wan
-  school_42: https://cv.42.fr/abarthel
+  42: https://cv.42.fr/abarthel
 
 ```
